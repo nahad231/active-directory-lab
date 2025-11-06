@@ -2,7 +2,7 @@
 
 A comprehensive Active Directory lab environment demonstrating enterprise-level skills in directory services, Group Policy management, PowerShell automation, and cross-platform integration.
 
-![AD Lab Architecture](images/architecture-diagram.png)
+![AD Lab Architecture](images/architecture-diagram.PNG)
 
 ## 🎯 Project Overview
 
@@ -158,13 +158,13 @@ Cross-platform monitoring system featuring:
 ## 📸 Screenshots
 
 ### Active Directory Users and Computers
-![AD Structure](images/ad-structure.png)
+![AD Structure](images/ad-structure.PNG)
 
 ### Group Policy Management Console
-![GPO Management](images/gpo-console.png)
+![GPO Management](images/gpo-console.PNG)
 
 ### Web-Based Monitoring Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/web-dashboard.PNG)
 
 ## 🎓 Technical Challenges Solved
 
@@ -208,10 +208,9 @@ This project is created for educational and portfolio purposes.
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio Site](https://yourwebsite.com)
+**Job Morales**
+- LinkedIn: [https://www.linkedin.com/in/job-morales/](https://www.linkedin.com/in/job-morales/)
+- Email: jobd.morales@gmail.com
 
 ## 🙏 Acknowledgments
 
