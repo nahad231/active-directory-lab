@@ -62,6 +62,24 @@ lab.local
 └── Service-Accounts
 \\\
 
+## 📸 Environment Screenshots
+
+### Active Directory Organizational Structure
+![AD OU Structure](images/ad-ou-structure.png)
+*Enterprise-grade OU hierarchy with department-based organization*
+
+### Group Policy Management
+![GPO Management](images/gpo-management.png)
+*Layered GPO strategy with security baselines and department policies*
+
+### Real-Time Monitoring Dashboard
+![Monitoring Dashboard](images/monitoring-dashboard.png)
+*Flask web dashboard showing live system health metrics*
+
+### PowerShell Automation
+![PowerShell Automation](images/powershell-automation.png)
+*Automated documentation generation reducing manual effort by 90%*
+
 ## 🔧 Technologies Used
 
 ### Infrastructure
