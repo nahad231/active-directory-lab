@@ -208,10 +208,9 @@ This project is created for educational and portfolio purposes.
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio Site](https://yourwebsite.com)
+**Job Morales**
+- LinkedIn: [https://www.linkedin.com/in/job-morales/](https://www.linkedin.com/in/job-morales/)
+- Email: jobd.morales@gmail.com
 
 ## 🙏 Acknowledgments
 
